@@ -1,0 +1,48 @@
+# 🌲 Depth First Search (DFS) Presentation
+
+This presentation is prepared as part of our **university academic coursework** on the topic  
+**Depth First Search (DFS)** under the Design and Analysis of Algorithms (DAA) course.
+
+---
+
+## 👥 Group Members
+
+This presentation was created collaboratively by the following group members:
+
+1. **Name:** Shawon Gazi  
+   **ID:** 241400031  
+
+2. **Name:** Tamanna Ahmed Tasin  
+   **ID:** 241400033  
+
+3. **Name:** Al Sharif  
+   **ID:** 241400037  
+
+---
+
+## 📄 Contents
+
+- Concept of Depth First Search (DFS)
+- DFS Algorithm
+- Pseudocode
+- Example Graph Traversal
+- Applications of DFS
+- Advantages and Limitations
+
+---
+
+## 🎯 Objective
+
+The main objective of this presentation is to:
+- Understand the working principle of DFS
+- Learn how DFS traverses a graph
+- Explain DFS in a simple and structured way for academic presentation
+
+---
+
+## 📌 Note
+
+This presentation is intended **only for educational purposes**  
+and was prepared as part of our university group assignment.
+
+---
