@@ -1,34 +1,48 @@
-## 🎓 Purpose of This Repository
+# 🌲 Depth First Search (DFS) Presentation
 
-- To keep all **university presentations well-organized**
-- Easy revision before exams, viva, or quizzes
-- Backup of important academic work
-- Quick sharing when needed
+This presentation is prepared as part of our **university academic coursework** on the topic  
+**Depth First Search (DFS)** under the Design and Analysis of Algorithms (DAA) course.
 
 ---
 
-## 🛠 Tools Used
+## 👥 Group Members
 
-- Microsoft PowerPoint
-- Google Slides
-- Canva (if applicable)
+This presentation was created collaboratively by the following group members:
+
+1. **Name:** Shawon Gazi  
+   **ID:** 241400031  
+
+2. **Name:** Tamanna Ahmed Tasin  
+   **ID:** 241400033  
+
+3. **Name:** Al Sharif  
+   **ID:** 241400037  
 
 ---
 
-## 👤 Author
+## 📄 Contents
 
-**Shawon Gazi**  
-Computer Science & Engineering  
-Eastern University
+- Concept of Depth First Search (DFS)
+- DFS Algorithm
+- Pseudocode
+- Example Graph Traversal
+- Applications of DFS
+- Advantages and Limitations
+
+---
+
+## 🎯 Objective
+
+The main objective of this presentation is to:
+- Understand the working principle of DFS
+- Learn how DFS traverses a graph
+- Explain DFS in a simple and structured way for academic presentation
 
 ---
 
 ## 📌 Note
 
-This repository is for **educational purposes only**.  
-All presentations are created as part of my university coursework.
+This presentation is intended **only for educational purposes**  
+and was prepared as part of our university group assignment.
 
 ---
-
-⭐ If you find this repository useful, feel free to star it.
-
